@@ -4,6 +4,7 @@
   "description": "A Dark VS Code Theme.",
   "version": "0.0.1",
   "publisher":"sola",
+  "repository":"none",
   "engines": {
     "vscode": "^1.74.0"
   },

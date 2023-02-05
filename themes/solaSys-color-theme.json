@@ -1706,7 +1706,7 @@
 		  "beginning.punctuation.definition.list.markdown.xi"
 		],
 		"settings": {
-		  "foreground": "#463158"
+		  "foreground": "#775d8f"
 		}
 	  },
 	  {
@@ -1790,7 +1790,7 @@
 		"scope": "comment, punctuation.definition.comment",
 		"settings": {
 		  "fontStyle": "italic",
-		  "foreground": "#463158"
+		  "foreground": "#775d8f"
 		}
 	  },
 	  {
@@ -1941,7 +1941,7 @@
 	  "editor.wordHighlightStrongBorder": "#c7383800",
 	  "editor.wordHighlightBackground": "#b46eaf66",
 	  "editor.wordHighlightBorder": "#ff000000",
-	  "editor.lineHighlightBackground": "#a54c9f50",
+	  "editor.lineHighlightBackground": "#5e3d5c22",
 	  "editor.lineHighlightBorder": "#885cad00",
 	  "editorLineNumber.activeForeground": "#412b54",
 	  "editorLink.activeForeground": "#412b54",
